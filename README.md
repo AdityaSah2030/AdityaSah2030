@@ -16,4 +16,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSah2030&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue)](https://linkedin.com/in/adityasah2030)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adityasah2030-blue)](https://linkedin.com/in/adityasah2030)
