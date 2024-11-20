@@ -1,18 +1,20 @@
-## Hi there 👋
+# 👋 Hi there! I'm Aditya Sah
 
-AIML enthusiast
+## About Me
+- 🌱 I’m currently learning: 
+- 👯 I’m looking to collaborate on: [Type of projects you're open to]
+- 💬 Ask me about: [Topics you love discussing]
+- 📫 How to reach me: [Your email, LinkedIn, or portfolio link]
 
-<!--
-**AdityaSah2030/AdityaSah2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 My Skills
+- Programming Languages: Python, JavaScript, etc.
+- Tools: Docker, Git, VS Code
+- Frameworks: React, Django, etc.
+- Databases: MongoDB, MySQL
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on projects with 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about tech, media, finance, business
-- 📫 How to reach me: adityasah2030@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue)](https://linkedin.com/in/YourUsername) 
+[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-1DA1F2)](https://twitter.com/YourHandle)
