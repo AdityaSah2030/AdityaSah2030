@@ -1,10 +1,10 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-# I'm Aditya Sah <img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/india_icon_127891.png" width="40px"/>
+# Hi folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+# I'm Aditya <img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/india_icon_127891.png" width="40px"/>
 
 ## A passionate Tech Enthusiast who loves collaborating in teams.
-- 🌱 I’m currently learning: 
-- 👯 I’m looking to collaborate on:
-- 💬 Ask me about: Artificial Intelligence, Business, Finance, Startup
+- 🌱 I’m currently learning: Data Handling in Python with the help of NumPy, Pandas and Matplotlib.
+- 👯 I’m looking to collaborate on: Any Projects based on Python and JavaScript.
+- 💬 Ask me about: Artificial Intelligence, Media, Finance, Startup, Business
 - 📫 How to reach me: adityasah2030@gmail.com
 
 ## 🔥 Languages and Tools
