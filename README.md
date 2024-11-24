@@ -1,6 +1,7 @@
-# Hi there! 👋  
-I'm **Aditya Sah** 🇮🇳  
-**A passionate Tech Enthusiast who loves collaborating in teams.**
+# Hi folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# I'm **Aditya Sah**
+### A Passionate Tech Enthusiast Based in India 🇮🇳
+
 
 ---
 
