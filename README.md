@@ -28,7 +28,7 @@
 ## 🌟 Featured Projects
 ### 🔗 [Project 1 - AI-Powered Chatbot](https://github.com/AdityaSah2030/AI-Powered-Chatbot)  
 **Tech Stack**: Python, TensorFlow, Natural Language Processing  
-*A smart chatbot capable of responding to natural language queries in real-time.*
+*A smart chatbot capable of responding to natural language queries in real time.*
 
 ### 🔗 [Project 2 - Weather Dashboard](https://github.com/AdityaSah2030/Weather-Dashboard)  
 **Tech Stack**: JavaScript, HTML, CSS, OpenWeather API  
