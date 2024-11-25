@@ -26,13 +26,17 @@
 ---
 
 ## 🌟 Featured Projects
-### 🔗 [Project 1 - AI-Powered Chatbot](https://github.com/AdityaSah2030/AI-Powered-Chatbot)  
-**Tech Stack**: Python, TensorFlow, Natural Language Processing  
-*A smart chatbot capable of responding to natural language queries in real time.*
+### 🔗 [Project 1 - Alien Invasion Game](https://github.com/AdityaSah2030/Alien-Invasion.git)  
+**Tech Stack**: Python and Pygame  
+*The game's goal is to shoot down a fleet of aliens as they drop down the screen, in levels that increase in speed and difficulty.*
 
-### 🔗 [Project 2 - Weather Dashboard](https://github.com/AdityaSah2030/Weather-Dashboard)  
-**Tech Stack**: JavaScript, HTML, CSS, OpenWeather API  
-*A responsive weather application that provides accurate real-time weather forecasts.*
+### 🔗 [Project 2 - Data Visulization](https://github.com/AdityaSah2030/Data-Visualization.git)  
+**Tech Stack**: Python, Matplotlib and Plotly  
+*An application that visualizes data after extracting it from an online source.*
+
+### 🔗 [Project 3 - Web Journal](https://github.com/AdityaSah2030/Web-Journal.git)  
+**Tech Stack**: Python and Django  
+*A web application that keeps a journal about different topics user's have been learning about.*
 
 ---
 
