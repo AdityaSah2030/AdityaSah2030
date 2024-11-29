@@ -42,7 +42,7 @@
 **Tech Stack**: Python  
 *1. To-Do List*  
 *2. BMI BMR Calculator*  
-*3. Handling APIs*
+*3. Handling APIs*  
 *4. Unit Converter*  
 
 ---
