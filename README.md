@@ -41,8 +41,9 @@
 ### 🔗 [Project 4 - Mini Projects](https://github.com/AdityaSah2030/Mini-Projects.git)
 **Tech Stack**: Python  
 *1. To-Do List*  
-*2. BMI Calculator*  
-*3. Unit Converter*  
+*2. BMI BMR Calculator*  
+*3. Handling APIs*
+*4. Unit Converter*  
 
 ---
 
