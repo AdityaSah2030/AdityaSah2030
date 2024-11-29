@@ -38,6 +38,12 @@
 **Tech Stack**: Python and Django  
 *A web application that keeps a journal about different topics user's have been learning about.*
 
+### 🔗 [Project 4 - Mini Projects](https://github.com/AdityaSah2030/Mini-Projects.git)
+**Tech Stack**: Python  
+*1. To-Do List*  
+*2. BMI Calculator*  
+*3. Unit Converter*  
+
 ---
 
 ## 🌐 Connect with Me
