@@ -36,7 +36,7 @@
 ![Picsart](https://img.shields.io/badge/Picsart-FF0066?style=for-the-badge&logo=picsart&logoColor=white)  [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)  [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=Adobe%20Lightroom&logoColor=white)](#)  [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)  ![Filmora](https://img.shields.io/badge/Filmora-0C3E8E?style=for-the-badge&logo=filmora&logoColor=white)  ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-F2F4F9?style=for-the-badge&logo=blackmagicdesign&logoColor=black)  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)  [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)  [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#)
 
 ## 📄 Documentation & Collaboration
-[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)  [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)  [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)  [![GitHub](https://img.shields.io/badge/GitHub%20-121013?logo=github&logoColor=white)](#)  [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)  [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
 
 ---
 
