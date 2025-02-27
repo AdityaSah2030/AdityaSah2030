@@ -35,8 +35,9 @@
 
 ### AI/ML Tools  
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Claude](https://img.shields.io/badge/Claude-FFCC00?logo=anthropic&logoColor=black)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![Copilot](https://img.shields.io/badge/Copilot-6e5494?logo=github-copilot&logoColor=white)](#) [![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-000000?logo=github&logoColor=white)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![Perplexity](https://img.shields.io/badge/Perplexity-FF4500?logo=chatgpt&logoColor=white)](#)
+
 ### Design  
-[![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FDBA0A?logo=davinci-resolve&logoColor=white)](#) [![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-0C3E8E?logo=filmora&logoColor=fff)](#) [![Picsart](https://img.shields.io/badge/Picsart-FF0066?logo=picsart&logoColor=fff)](#) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#) [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=white)](#) [![GIMP](https://img.shields.io/badge/GIMP-5C5C5C?logo=gimp&logoColor=white)](#) [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=black)](#)
+[![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FDBA0A?logo=davinci-resolve&logoColor=white)](#) [![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-0C3E8E?logo=wondershare-filmora&logoColor=fff)](#) [![Picsart](https://img.shields.io/badge/Picsart-FF0066?logo=picsart&logoColor=fff)](#) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#) [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobe-lightroom)](#) [![GIMP](https://img.shields.io/badge/GIMP-5C5C5C?logo=gimp&logoColor=white)](#) [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop)](#)
 
 ### Documentation & Collaboration  
 [![GitHub](https://img.shields.io/badge/GitHub%20-121013?logo=github&logoColor=white)](#) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#) [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
@@ -85,10 +86,8 @@
 ![](https://img.shields.io/badge/Windows-11_Home-informational?style=flat&logo=Windows&logoColor=white&color=0083DC) ![](https://img.shields.io/badge/Intel-i7_13th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5) ![](https://img.shields.io/badge/RAM-16_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 ![](https://img.shields.io/badge/NVIDIA-GEFORCE_RTX_4050-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
 
-
 ---
 
-**Copyright ©  
-2025 Aditya Sah. All rights reserved.**
+**Copyright ©  2025 Aditya Sah. All rights reserved.**
 
 *"I believe in the power of technology to bridge gaps and create meaningful solutions!"*
