@@ -96,5 +96,4 @@
 
 ---
 
-**Copyright ©  
-2025 Aditya Sah. All rights reserved.**
+**Copyright © 2025 Aditya Sah. All rights reserved.**
