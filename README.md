@@ -25,13 +25,15 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#) [![Tkinter](https://img.shields.io/badge/Tkinter-306998?logo=python&logoColor=white)](#) [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](#) [![Pygame](https://img.shields.io/badge/Pygame-1C1C1C?logo=pygame&logoColor=white)](#) [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](#)
 
 ### DevOps Tools  
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-111111?logo=windows-terminal&logoColor=white)](#) [![CMD](https://img.shields.io/badge/CMD-0078D6)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-111111?logo=windows-terminal&logoColor=white)](#) [![CMD](https://img.shields.io/badge/CMD-0078D6)](#) <!-- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#) -->
 
 ### Databases  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
+<!-- 
 ### Cloud Systems  
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+-->
 
 ---
 
