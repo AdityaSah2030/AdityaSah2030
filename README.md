@@ -95,9 +95,7 @@
 ---
 
 ## 💻 My workspace
-
-![](https://img.shields.io/badge/Windows-11_Home-informational?style=flat&logo=Windows&logoColor=white&color=0083DC) ![](https://img.shields.io/badge/Intel-i7_13th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5) ![](https://img.shields.io/badge/RAM-16_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
-![](https://img.shields.io/badge/NVIDIA-GEFORCE_RTX_4050-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
+![](https://img.shields.io/badge/Windows-11_Home-informational?style=flat&logo=Windows&logoColor=white&color=0083DC) ![](https://img.shields.io/badge/Intel-i7_13620H_13th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5) ![](https://img.shields.io/badge/RAM-16_GB-informational?style=flat&logo=ram&logoColor=white&color=28A745) ![](https://img.shields.io/badge/GPU-NVIDIA_RTX_4050_6GB-informational?style=flat&logo=nvidia&logoColor=white&color=76BC00) [![Storage](https://img.shields.io/badge/Storage-512_GB_SSD-grey?style=flat&logo=databricks&logoColor=white)](#) 
 
 ---
 
