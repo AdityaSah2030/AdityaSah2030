@@ -69,14 +69,6 @@
 **Tech Stack**: Arduino, C/C++  
 *A project built during an Arduino workshop featuring a line follower robot. It uses infrared sensors to detect the line and motor control algorithms for autonomous navigation.*
 
-### 🔗 [Alien Invasion Game](https://github.com/AdityaSah2030/Alien-Invasion.git)  
-**Tech Stack**: Python and Pygame  
-*Defend against an alien fleet as the game ramps up in speed and difficulty.*
-
-### 🔗 [Data Visualization](https://github.com/AdityaSah2030/Data-Visualization.git)  
-**Tech Stack**: Python, Matplotlib, and Plotly  
-*An application that visualizes data extracted from online sources.*
-
 ---
 
 ## 🌐 Connect with Me
