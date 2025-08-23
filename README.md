@@ -52,29 +52,9 @@
 
 ---
 
-## 🌟 Featured Projects
-### 🔗 [Attendance System](https://github.com/AdityaSah2030/Attendance-System.git)
-**Tech Stack**: Python, Tkinter, and Excel Automation  
-*A GUI-based system that creates class Excel sheets for recording attendance and updates them in the backend.*
-
-### 🔗 [Mini Projects Collection](https://github.com/AdityaSah2030/Mini-Projects.git)
-**Tech Stack**: Python  
-*Includes:*  
-- To-Do List  
-- BMI-BMR Calculator  
-- YouTube Manager  
-- Handling APIs  
-- Unit Converter  
-- GUI Notepad
-
-### 🔗 [Arduino Workshop: Line Follower Robot](https://github.com/AdityaSah2030/ArduinoWorkshop)
-**Tech Stack**: Arduino, C/C++  
-*A project built during an Arduino workshop featuring a line follower robot. It uses infrared sensors to detect the line and motor control algorithms for autonomous navigation.*
-
----
-
 ## 🌐 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adityasah2030@gmail.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasah2030) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/AdityaSah2030) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/adityasah2030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](http://www.instagram.com/adityasah2030) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/adityasah2030)  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/sa0e2nw40p74hkja276bduku8?si=giH7MLppQZ-XB-zM9hFxBg)  [![Peerlist](https://img.shields.io/badge/Peerlist-0A0A23?logo=peerlist&logoColor=white)](https://peerlist.io/adityasah2030) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/adityasah2030) [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white)](#) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adityasah2030@gmail.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasah2030) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/AdityaSah2030) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/adityasah2030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](http://www.instagram.com/adityasah2030) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/adityasah2030) [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=applemusic&logoColor=white)](https://music.apple.com/profile/adityasah2030)
+ [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/sa0e2nw40p74hkja276bduku8?si=giH7MLppQZ-XB-zM9hFxBg)  [![Peerlist](https://img.shields.io/badge/Peerlist-0A0A23?logo=peerlist&logoColor=white)](https://peerlist.io/adityasah2030) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/adityasah2030) [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white)](#) 
 
 ---
 
