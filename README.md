@@ -1,10 +1,7 @@
-# Hi folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-# I'm **Aditya Kumar Sah**
-### A Passionate Tech Enthusiast Based in India 🇮🇳
+# Hi, I'm Aditya Kumar Sah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Computer Science Engineering (AI & ML) | Tech Enthusiast 🇮🇳
 
----
-
-### *"I believe in the power of technology to bridge gaps and create meaningful solutions!"*
+I focus on building strong fundamentals in computer science while exploring AI/ML, systems, and practical software engineering.
 
 ---
 
