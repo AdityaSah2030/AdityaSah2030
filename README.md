@@ -26,48 +26,118 @@ I enjoy building practical applications that combine AI/ML, backend engineering,
 
 ### 1. Research Paper Assistant | Multi-Document RAG
 
-An AI-powered research assistant that enables natural-language querying across multiple research papers, with source attribution for traceable answers.
+An AI-powered research assistant for querying multiple research papers and generating context-grounded answers with page-level source attribution.
 
-**Key Features**
+<table>
+<tr>
+<td><b>Key Features</b></td>
+<td>
 
-* Built a RAG pipeline with page-aware PDF ingestion, overlapping text chunking, semantic embeddings, and document-level similarity search.
-* Implemented session-isolated document workspaces and duplicate-version replacement.
-* Added page-level source attribution to help users trace answers to their original documents.
+- **PDF Processing:** Extracted text page by page and split it into overlapping chunks using LangChain.
+- **Semantic Search:** Generated Gemini embeddings and stored them in Qdrant for vector similarity retrieval.
+- **Multi-Paper Retrieval:** Retrieved relevant passages independently from each document for cross-paper question answering.
+- **Context-Grounded Answers:** Used Google Gemini to generate answers from retrieved passages with document and page citations.
+- **Session Isolation:** Separated document workspaces using session IDs to prevent cross-session retrieval.
+- **Document Versioning:** Replaced older uploads of the same filename without deleting other indexed papers.
 
-**Tech Stack:** Python · FastAPI · LangChain · Google Gemini · Qdrant
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaSah2030/research-paper-assistant)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20It-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://research-paper-assistant-pwd1.onrender.com/)
+</td>
+</tr>
+<tr>
+<td><b>Tech Stack</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Links</b></td>
+<td>
+<a href="https://github.com/AdityaSah2030/research-paper-assistant"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://research-paper-assistant-pwd1.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-2EA44F?style=for-the-badge&logo=render&logoColor=white" /></a>
+</td>
+</tr>
+</table>
 
 ### 2. Vision Studio | Face Recognition & Computer Vision
 
-A computer vision project combining database-backed facial recognition with image processing tools.
+A computer vision application combining facial recognition, biometric matching, image-to-ASCII conversion, and interactive visual effects.
 
-**Key Features**
+<table>
+<tr>
+<td><b>Key Features</b></td>
+<td>
 
-* Developed facial recognition using InsightFace and 512-dimensional facial embeddings.
-* Integrated PostgreSQL and pgvector for facial embedding storage and similarity matching.
-* Built an image-to-ASCII conversion pipeline using OpenCV, NumPy, and Pillow, incorporating denoising and contrast enhancement.
+- **Face Enrollment:** Registered users with six facial poses for multi-pose biometric matching.
+- **Facial Embeddings:** Generated normalized 512-dimensional facial representations using InsightFace.
+- **Similarity-Based Recognition:** Matched faces using PostgreSQL, pgvector, cosine distance, and configurable similarity thresholds.
+- **Multi-Match Scoring:** Aggregated top-k pose matches to improve user identification.
+- **Image-to-ASCII Conversion:** Applied bilateral denoising, CLAHE contrast enhancement, and grayscale-to-character mapping.
+- **Live Visual Filters:** Implemented ASCII Art, Neon Edge Contours, Thermal Vision, Retro 8-Bit, and Pop-Art Halftone effects.
+- **Interactive Filter Controls:** Added adjustable resolution, contrast, color palettes, mirroring, and image export options.
 
-**Tech Stack:** Python · FastAPI · InsightFace · PostgreSQL · pgvector · OpenCV · NumPy
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaSah2030/vision-studio)
-[![Project Showcase](https://img.shields.io/badge/Project%20Showcase-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/2/folders/19eNkXj5W27Hor5zScRLDKerBJTpqyg6F)
+</td>
+</tr>
+<tr>
+<td><b>Tech Stack</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/InsightFace-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Links</b></td>
+<td>
+<a href="https://github.com/AdityaSah2030/vision-studio"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://drive.google.com/drive/u/2/folders/19eNkXj5W27Hor5zScRLDKerBJTpqyg6F"><img src="https://img.shields.io/badge/Google_Drive-Project_Showcase-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</td>
+</tr>
+</table>
 
 ### 3. Line Following Robot | PID-Based Autonomous Navigation
 
-An autonomous robot that follows a track using sensor feedback and PID-based motor control.
+An autonomous robot that uses sensor feedback and PID control for path tracking, motor-speed adjustment, and track recovery.
 
-**Key Features**
+<table>
+<tr>
+<td><b>Key Features</b></td>
+<td>
 
-* Built using Arduino Nano, an 8-channel IR sensor array, a TB6612FNG motor driver, and DC gear motors.
-* Implemented weighted sensor-position estimation, PID feedback control, differential motor-speed adjustment, and lost-line recovery.
-* Integrated HC-05 Bluetooth communication for runtime PID parameter tuning and serial debugging.
+- **Line Position Sensing:** Calculated track position using an 8-channel IR sensor array.
+- **PID-Based Navigation:** Implemented proportional, integral, and derivative control to correct tracking errors.
+- **Differential Motor Control:** Adjusted left and right motor speeds through a TB6612FNG motor driver.
+- **Wireless PID Tuning:** Modified Kp, Ki, and Kd parameters in real time using an HC-05 Bluetooth module.
+- **Crossroad & Finish-Line Detection:** Implemented track detection logic for intersections and the finish line.
+- **Lost-Line Recovery:** Added recovery logic to help the robot reacquire the track.
+- **Serial Debugging:** Enabled runtime monitoring of sensor readings and control parameters.
 
-**Tech Stack:** Arduino · Embedded C/C++ · PID Control · IR Sensors · Bluetooth Communication
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaSah2030/line-following-robot-pid)
-[![Robot Demo](https://img.shields.io/badge/Robot%20Demo-View%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wBVVs2DsTPJmfV0YM2yuASs2mvwEGUs9/view)
+</td>
+</tr>
+<tr>
+<td><b>Tech Stack</b></td>
+<td>
+<img src="https://img.shields.io/badge/Arduino_Nano-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded_C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PID_Control-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/IR_Sensor_Array-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/Bluetooth_HC--05-0082FC?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><b>Links</b></td>
+<td>
+<a href="https://github.com/AdityaSah2030/line-following-robot-pid"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1wBVVs2DsTPJmfV0YM2yuASs2mvwEGUs9/view"><img src="https://img.shields.io/badge/Watch-Working_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</td>
+</tr>
+</table>
 
 ---
 
