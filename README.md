@@ -211,7 +211,7 @@ An autonomous robot that uses sensor feedback and PID control for path tracking,
 
 ---
 
-## Leadership & Community
+## 🏆 Leadership & Community
 
 **Media & Content Lead | Google Developer Groups (GDG) On Campus, Techno Main Salt Lake**
 
