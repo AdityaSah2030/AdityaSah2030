@@ -3,11 +3,7 @@
 <h3 align="center">Computer Science Engineering Student | AI/ML | Generative AI | Computer Vision</h3>
 
 <div align="center">
-  <a href="https://adityasah2030.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/adityasah2030"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityasah2030@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/></a>
+  <a href="https://adityasah2030.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>  <a href="https://www.linkedin.com/in/adityasah2030"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityasah2030@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/></a>
 </div>
 
 ---
