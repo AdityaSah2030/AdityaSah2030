@@ -1,72 +1,183 @@
-# Hi, I'm Aditya Kumar Sah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### Computer Science Engineering (AI & ML) | Tech Enthusiast 🇮🇳
+<h1 align="center">Hi, I'm Aditya Kumar Sah 👋</h1>
 
-I focus on building strong fundamentals in computer science while exploring AI/ML, systems, and practical software engineering.
+<h3 align="center">Computer Science Engineering Student | AI/ML | Generative AI | Computer Vision</h3>
 
----
-
-## 🚀 About Me
-- 🌱 **Currently Learning**: Data Structures & Algorithms, ML Model Training, Computer Architecture, and Database Management Systems
-- 🔍 **Exploring**: Data Analysis, System Design, and DevOps
-- 👯 **Looking to Collaborate On**: Python, Java, AI/ML applications, and embedded systems projects
-- 💬 **Ask Me About**: Programming, Technology Tools, Legacy Software, Modern Tech, Business Applications, and Practical Use Cases
-- 📫 **Reach Me At**: [adityasah2030@gmail.com](mailto:adityasah2030@gmail.com)
-
----
-
-## 💻 Technical Skills  
-
-### 🧠 Programming Languages  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-
-### ⚙️ Frameworks & Libraries  
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/Seaborn-4C4C9D?logo=seaborn&logoColor=white)](#) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](#) [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)](#) [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](#) [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?logo=python&logoColor=white)](#) [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](#)
-
-### 🛠️ Development Tools  
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](#) [![Command Prompt](https://img.shields.io/badge/Command%20Prompt-000000?logo=windows-terminal&logoColor=white)](#) [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-111111?logo=windows-terminal&logoColor=white)](#) 
-
-### 🗄️ Databases  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-
-### 🌐 Web Technologies  
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) [![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?logo=yaml&logoColor=white)](#) [![JSON](https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white)](#)
+<p align="center">
+  <a href="https://adityasah2030.github.io/MyPortfolio/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adityasah2030" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adityasah2030@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Specialized Tools
+## About Me
 
-### 🤖 AI/ML Tools  
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)](#) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Claude](https://img.shields.io/badge/Claude-FFCC00?logo=anthropic&logoColor=black)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) 
+I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at **Techno Main Salt Lake, Kolkata**.
 
-### ⚡ Self-Hosted Models
-[![Gemma 3 4B](https://img.shields.io/badge/Gemma%203-4B-4285F4?logo=google&logoColor=white)](#) [![Dolphin Llama3](https://img.shields.io/badge/Dolphin--Llama3-Latest-0A0A0A?logo=meta&logoColor=white)](#) [![DeepSeek R1 8B](https://img.shields.io/badge/DeepSeek--R1-8B-4D6BFE?logo=deepseek&logoColor=white)](#) [![Qwen2.5 Coder 7B](https://img.shields.io/badge/Qwen2.5--Coder-7B-7B42BC?logo=alibabacloud&logoColor=white)](#) 
+I enjoy building practical applications that combine AI/ML, backend engineering, and computer vision. My projects range from a multi-document research paper assistant powered by RAG to facial recognition systems and autonomous robotics.
 
-### 🎨 Design & Media  
-[![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FDBA0A?logo=davinci-resolve&logoColor=white)](#) [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white)](#) [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)](#) [![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-0C3E8E?logo=wondershare-filmora&logoColor=fff)](#) [![Gamma](https://img.shields.io/badge/Gamma-6B4EFF)](#) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#) [![Excalidraw](https://img.shields.io/badge/Excalidraw-1F1F1F?logo=excalidraw&logoColor=white)](#) [![Eraser](https://img.shields.io/badge/Eraser-000000?logo=eraser&logoColor=white)](#) [![draw.io](https://img.shields.io/badge/draw.io-FF9900?logo=diagrams.net&logoColor=white)](#) [![GIMP](https://img.shields.io/badge/GIMP-5C5C5C?logo=gimp&logoColor=white)](#)
-
-### 📝 Documentation & Publishing
-[![GitHub](https://img.shields.io/badge/GitHub%20-121013?logo=github&logoColor=white)](https://github.com/adityasah2030) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](https://notion.so/adityasah2030) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@adityasah2030) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adityasah2030)
+* **Building:** AI-powered applications, RAG systems, and computer vision projects.
+* **Exploring:** Generative AI, machine learning, and intelligent systems.
+* **Core Technologies:** Python, FastAPI, PostgreSQL, LangChain, and OpenCV.
+* **Currently Learning:** Data Structures & Algorithms, Machine Learning, and Software Engineering.
+* **Community:** Media & Content Lead at GDG On Campus, Techno Main Salt Lake.
 
 ---
 
-## 🌐 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adityasah2030@gmail.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasah2030) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/AdityaSah2030) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/adityasah2030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](http://www.instagram.com/adityasah2030) 
+## 🚀 Featured Projects
 
-### 🎵 Music
-[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=applemusic&logoColor=white)](https://music.apple.com/profile/adityasah2030) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/sa0e2nw40p74hkja276bduku8?si=giH7MLppQZ-XB-zM9hFxBg)
+### 1. Research Paper Assistant | Multi-Document RAG
+
+An AI-powered research assistant that enables natural-language querying across multiple research papers, with source attribution for traceable answers.
+
+**Key Features**
+
+* Built a RAG pipeline with page-aware PDF ingestion, overlapping text chunking, semantic embeddings, and document-level similarity search.
+* Implemented session-isolated document workspaces and duplicate-version replacement.
+* Added page-level source attribution to help users trace answers to their original documents.
+
+**Tech Stack:** Python · FastAPI · LangChain · Google Gemini · Qdrant
+
+<p>
+  <a href="https://github.com/AdityaSah2030/research-paper-assistant">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="https://research-paper-assistant-pwd1.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Try%20It-16A34A?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+### 2. Vision Studio | Face Recognition & Computer Vision
+
+A computer vision project combining database-backed facial recognition with image processing tools.
+
+**Key Features**
+
+* Developed facial recognition using InsightFace and 512-dimensional facial embeddings.
+* Integrated PostgreSQL and pgvector for facial embedding storage and similarity matching.
+* Built an image-to-ASCII conversion pipeline using OpenCV, NumPy, and Pillow, incorporating denoising and contrast enhancement.
+
+**Tech Stack:** Python · FastAPI · InsightFace · PostgreSQL · pgvector · OpenCV · NumPy
+
+<p>
+  <a href="https://github.com/AdityaSah2030/vision-studio">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="https://drive.google.com/drive/u/2/folders/19eNkXj5W27Hor5zScRLDKerBJTpqyg6F">
+    <img src="https://img.shields.io/badge/Project%20Showcase-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Project Showcase"/>
+  </a>
+</p>
+
+### 3. Line Following Robot | PID-Based Autonomous Navigation
+
+An autonomous robot that follows a track using sensor feedback and PID-based motor control.
+
+**Key Features**
+
+* Built using Arduino Nano, an 8-channel IR sensor array, a TB6612FNG motor driver, and DC gear motors.
+* Implemented weighted sensor-position estimation, PID feedback control, differential motor-speed adjustment, and lost-line recovery.
+* Integrated HC-05 Bluetooth communication for runtime PID parameter tuning and serial debugging.
+
+**Tech Stack:** Arduino · Embedded C/C++ · PID Control · IR Sensors · Bluetooth Communication
+
+<p>
+  <a href="https://github.com/AdityaSah2030/line-following-robot-pid">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1wBVVs2DsTPJmfV0YM2yuASs2mvwEGUs9/view">
+    <img src="https://img.shields.io/badge/Robot%20Demo-View%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Robot Demo"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSah2030&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=AdityaSah2030&theme=radical&hide_border=true&border_radius=8)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaSah2030&show_icons=true&theme=radical)
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+</p>
+
+### AI/ML & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+### Generative AI & RAG
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
+
+### Backend Development & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### Embedded Systems & Robotics
+
+**Arduino · PID Control · IR Sensors · Bluetooth Communication**
+
+### Technical Design & Diagramming
+
+<p>
+  <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white" alt="Excalidraw"/>
+  <img src="https://img.shields.io/badge/Eraser-000000?style=flat-square&logo=eraser&logoColor=white" alt="Eraser"/>
+  <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="draw.io"/>
+</p>
 
 ---
 
-## 💻 My Workspace
-![](https://img.shields.io/badge/OS-Windows_11-0078D6?logo=windows) ![](https://img.shields.io/badge/CPU-Intel_i7_13620H-0071C5?logo=intel) ![](https://img.shields.io/badge/GPU-NVIDIA_RTX_4050_(6GB)-76B900?logo=nvidia) ![](https://img.shields.io/badge/RAM-16GB-grey) ![](https://img.shields.io/badge/SSD-1TB-grey)
+## Leadership & Community
+
+**Media & Content Lead | Google Developer Groups (GDG) On Campus, Techno Main Salt Lake**
+
+* Progressed from photography and video editing to a leadership role spanning media, design, and content creation.
+* Co-managed a 50+ member organizing team alongside the On-Campus Lead.
+* Contributed to workshops, speaker sessions, and technical events engaging 100+ students.
 
 ---
 
-**Copyright © 2026 Aditya Kumar Sah. All rights reserved.**
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaSah2030&show_icons=true&hide_border=true&theme=radical" alt="GitHub Statistics"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=AdityaSah2030&theme=radical&hide_border=true&border_radius=8" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+<p align="center">
+  Copyright © 2026 Aditya Kumar Sah. All rights reserved.
+</p>
