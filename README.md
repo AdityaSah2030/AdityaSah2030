@@ -2,21 +2,17 @@
 
 <h3 align="center">Computer Science Engineering Student | AI/ML | Generative AI | Computer Vision</h3>
 
-<p align="center">
-  <a href="https://adityasah2030.github.io/MyPortfolio/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adityasah2030" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adityasah2030@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://adityasah2030.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/adityasah2030"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityasah2030@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/></a>
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at **Techno Main Salt Lake, Kolkata**.
 
@@ -44,14 +40,8 @@ An AI-powered research assistant that enables natural-language querying across m
 
 **Tech Stack:** Python · FastAPI · LangChain · Google Gemini · Qdrant
 
-<p>
-  <a href="https://github.com/AdityaSah2030/research-paper-assistant">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  <a href="https://research-paper-assistant-pwd1.onrender.com/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Try%20It-16A34A?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
-  </a>
-</p>
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaSah2030/research-paper-assistant)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20It-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://research-paper-assistant-pwd1.onrender.com/)
 
 ### 2. Vision Studio | Face Recognition & Computer Vision
 
@@ -65,14 +55,8 @@ A computer vision project combining database-backed facial recognition with imag
 
 **Tech Stack:** Python · FastAPI · InsightFace · PostgreSQL · pgvector · OpenCV · NumPy
 
-<p>
-  <a href="https://github.com/AdityaSah2030/vision-studio">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  <a href="https://drive.google.com/drive/u/2/folders/19eNkXj5W27Hor5zScRLDKerBJTpqyg6F">
-    <img src="https://img.shields.io/badge/Project%20Showcase-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Project Showcase"/>
-  </a>
-</p>
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaSah2030/vision-studio)
+[![Project Showcase](https://img.shields.io/badge/Project%20Showcase-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/2/folders/19eNkXj5W27Hor5zScRLDKerBJTpqyg6F)
 
 ### 3. Line Following Robot | PID-Based Autonomous Navigation
 
@@ -86,14 +70,8 @@ An autonomous robot that follows a track using sensor feedback and PID-based mot
 
 **Tech Stack:** Arduino · Embedded C/C++ · PID Control · IR Sensors · Bluetooth Communication
 
-<p>
-  <a href="https://github.com/AdityaSah2030/line-following-robot-pid">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1wBVVs2DsTPJmfV0YM2yuASs2mvwEGUs9/view">
-    <img src="https://img.shields.io/badge/Robot%20Demo-View%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Robot Demo"/>
-  </a>
-</p>
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaSah2030/line-following-robot-pid)
+[![Robot Demo](https://img.shields.io/badge/Robot%20Demo-View%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wBVVs2DsTPJmfV0YM2yuASs2mvwEGUs9/view)
 
 ---
 
@@ -147,7 +125,12 @@ An autonomous robot that follows a track using sensor feedback and PID-based mot
 
 ### Embedded Systems & Robotics
 
-**Arduino · PID Control · IR Sensors · Bluetooth Communication**
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/PID%20Control-2C3E50?style=flat-square" alt="PID Control"/>
+  <img src="https://img.shields.io/badge/IR%20Sensors-546E7A?style=flat-square" alt="IR Sensors"/>
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth"/>
+</p>
 
 ### Technical Design & Diagramming
 
